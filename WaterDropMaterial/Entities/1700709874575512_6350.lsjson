@@ -1,0 +1,23 @@
+{
+    "1700709874575512:6350": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1700709874575686:6351",
+            "resources": [
+                "1700709874575328:6342",
+                "1700709874578102:6353"
+            ]
+        }
+    },
+    "1700709874575686:6351": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures"
+            }
+        }
+    }
+}

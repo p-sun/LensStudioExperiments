@@ -1,0 +1,80 @@
+{
+    "1700709874577097:6352": {
+        "IFileManager": {
+            "path": "Files/File_1700709874577097_6352.jpg"
+        }
+    },
+    "1700709874578102:6353": {
+        "IResourceController": {
+            "name": "RGBAnoise",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700709874578493:6354",
+            "fileId": "1700709874577097:6352",
+            "originalId": "1700709874578662:6359",
+            "publicId": "1700709874621459:6441",
+            "expected_hash": "4fb36e5e34cd3d29e50bf9011e4bcd8e",
+            "additional": {
+                "originHash": "4fb36e5e34cd3d29e50bf9011e4bcd8e",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1700709874578493:6354",
+            "name": "Files/File_1700709874577097_6352.jpg",
+            "flags": 1
+        }
+    },
+    "1700709874578493:6354": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "4fb36e5e34cd3d29e50bf9011e4bcd8e"
+                    },
+                    "v": "1700709875156544:6606"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "589824",
+                "compressedSize": "179072",
+                "extension": "jpg",
+                "originalRAM": "589824",
+                "originalSize": "179072",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1700709874584526:6421"
+        }
+    },
+    "1700709874578662:6359": {
+        "IFileManager": {
+            "path": "Files/File_1700709874578662_6359.jpg"
+        }
+    },
+    "1700709874584526:6421": {
+        "IFileManager": {
+            "path": "Files/File_1700709874584526_6421.jpg"
+        }
+    },
+    "1700709874621459:6441": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/RGBAnoise.jpg",
+                "hash": "4fb36e5e34cd3d29e50bf9011e4bcd8e"
+            }
+        }
+    },
+    "1700709875156544:6606": {
+        "IFileManager": {
+            "path": "Files/File_1700709875156544_6606.jpg"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1700709874487450:6325": {
+        "IFileManager": {
+            "path": "Files/File_1700709874487450_6325"
+        }
+    },
+    "1700709874489017:6326": {
+        "IResourceController": {
+            "name": "Water Drops [Edit Me]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700709874489019:6327",
+            "fileId": "1700709874487450:6325",
+            "originalId": "1700709874510343:6333",
+            "publicId": "1700709874571785:6340",
+            "expected_hash": "24650b27df018b36de3fd48bd5a5a477"
+        },
+        "IResourceManager": {
+            "uid": "1700709874489019:6327",
+            "name": "Files/File_1700709874487450_6325",
+            "flags": 1
+        }
+    },
+    "1700709874510343:6333": {
+        "IFileManager": {
+            "path": "Files/File_1700709874510343_6333.lsmat"
+        }
+    },
+    "1700709874571785:6340": {
+        "IResourceController": {
+            "public": {
+                "path": "Water Drops [Edit Me].lsmat",
+                "hash": "d5bdc9b598e355fa1c125f163e7f301f"
+            }
+        }
+    }
+}
