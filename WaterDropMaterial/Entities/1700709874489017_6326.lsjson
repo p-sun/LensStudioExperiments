@@ -15,7 +15,7 @@
             "fileId": "1700709874487450:6325",
             "originalId": "1700709874510343:6333",
             "publicId": "1700709874571785:6340",
-            "expected_hash": "303cfd7c952e6d7712f5d9cdae492377"
+            "expected_hash": "465abfff33dc81555448b05be3bf8dee"
         },
         "IResourceManager": {
             "uid": "1700709874489019:6327",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Water Drops [Edit Me].lsmat",
-                "hash": "03e69435a2572b4ea57962c2f14640b0"
+                "hash": "e467fa84e179c6a390f15e378b3091c3"
             }
         }
     }
